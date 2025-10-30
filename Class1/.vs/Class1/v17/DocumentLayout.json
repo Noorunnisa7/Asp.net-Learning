@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Documents\\asp.net learning\\Class1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2D897B6E-9DB6-4F01-9D5D-CECCA8C26EBB}|Class1\\Class1.csproj|c:\\users\\teacher\\documents\\asp.net learning\\class1\\class1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{2D897B6E-9DB6-4F01-9D5D-CECCA8C26EBB}|Class1\\Class1.csproj|solutionrelative:class1\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D897B6E-9DB6-4F01-9D5D-CECCA8C26EBB}|Class1\\Class1.csproj|c:\\users\\teacher\\documents\\asp.net learning\\class1\\class1\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{2D897B6E-9DB6-4F01-9D5D-CECCA8C26EBB}|Class1\\Class1.csproj|solutionrelative:class1\\content\\bootstrap.min.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2D897B6E-9DB6-4F01-9D5D-CECCA8C26EBB}|Class1\\Class1.csproj|c:\\users\\teacher\\documents\\asp.net learning\\class1\\class1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D897B6E-9DB6-4F01-9D5D-CECCA8C26EBB}|Class1\\Class1.csproj|solutionrelative:class1\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\asp.net learning\\Class1\\Class1\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Class1\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\asp.net learning\\Class1\\Class1\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Class1\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-10-28T12:50:14.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "bootstrap.min.css",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\asp.net learning\\Class1\\Class1\\Content\\bootstrap.min.css",
+              "RelativeDocumentMoniker": "Class1\\Content\\bootstrap.min.css",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\asp.net learning\\Class1\\Class1\\Content\\bootstrap.min.css",
+              "RelativeToolTip": "Class1\\Content\\bootstrap.min.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2025-10-28T12:49:49.087Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\asp.net learning\\Class1\\Class1\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Class1\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\asp.net learning\\Class1\\Class1\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Class1\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-28T12:48:25.994Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
