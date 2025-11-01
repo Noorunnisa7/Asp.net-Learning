@@ -1,0 +1,31 @@
+﻿<section class="container">
+    <div class="row justify-content-center">
+        <div class="col-6">
+            <div class="card text-center">
+                <h1>Maths Operations</h1>
+                <form class="w-100 card-body" method="post" action="~/Calculator/Index">
+                    <input type="number" placeholder="Enter Your First number" class="form-control mb-3 w-100" name="num1" />
+                    <input type="number" placeholder="Enter Your Second number" class="form-control mb-3 w-100" name="num2" />
+                    <label>
+                        Select Your Operator
+                        <select class="form-select mb-3" name="operator">
+                            <option value="Add">Addition</option>
+                            <option value="Sub">Subtraction</option>
+                            <option value="multiply">Multiply</option>
+                            <option value="divide">Divison</option>
+                        </select>
+                    </label>
+                    <button class="btn btn-primary w-100">Calculate</button>
+                </form>
+
+                @if (ViewBag.result != null)
+                {
+                    <div class="alert alert-info">
+                        @ViewBag.result
+                    </div>
+                }
+
+            </div>
+        </div>
+    </div>
+</section>
