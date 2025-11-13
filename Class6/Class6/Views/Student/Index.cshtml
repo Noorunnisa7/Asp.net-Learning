@@ -1,0 +1,44 @@
+﻿@model IEnumerable<Class6.Models.Student>
+
+<h1>Students</h1>
+
+@foreach (var student in Model)
+{
+      <ul>
+          <li>@student.Id</li>
+          <li>@student.Name</li>
+          <li>@student.age</li>
+      </ul>
+ }
+
+
+
+@Html.TextBox("name", null);
+@Html.TextBoxFor(Model => Model.Id)
+
+
+
+
+
+
+@*@model Class6.Models.Student
+
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@if (Model != null)
+{
+    <ul>
+        <li>Id: @Model.Id</li>
+        <li>Name: @Model.Name</li>
+        <li>Age: @Model.age</li>
+
+    </ul>
+}
+else
+{
+    <p>No Data Found</p>
+}*@

@@ -1,0 +1,72 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class6\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EF68CC-05F8-4F44-B99A-3113D4B9B12D}|Class6\\Class6.csproj|c:\\users\\teacher\\documents\\asp.net\\class6\\class6\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4EF68CC-05F8-4F44-B99A-3113D4B9B12D}|Class6\\Class6.csproj|solutionrelative:class6\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EF68CC-05F8-4F44-B99A-3113D4B9B12D}|Class6\\Class6.csproj|c:\\users\\teacher\\documents\\asp.net\\class6\\class6\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{A4EF68CC-05F8-4F44-B99A-3113D4B9B12D}|Class6\\Class6.csproj|solutionrelative:class6\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A4EF68CC-05F8-4F44-B99A-3113D4B9B12D}|Class6\\Class6.csproj|c:\\users\\teacher\\documents\\asp.net\\class6\\class6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A4EF68CC-05F8-4F44-B99A-3113D4B9B12D}|Class6\\Class6.csproj|solutionrelative:class6\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class6\\Class6\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Class6\\Views\\Student\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class6\\Class6\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Class6\\Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAABoAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-13T12:24:23.303Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class6\\Class6\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Class6\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class6\\Class6\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Class6\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:21:32.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Student.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class6\\Class6\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Class6\\Models\\Student.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class6\\Class6\\Models\\Student.cs",
+              "RelativeToolTip": "Class6\\Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-13T12:19:39.464Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
