@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Documents\\Asp.net\\class11\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FCEEF3-F3DB-465A-9DDA-B23BFC56799D}|class11\\class11.csproj|c:\\users\\teacher\\documents\\asp.net\\class11\\class11\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FCEEF3-F3DB-465A-9DDA-B23BFC56799D}|class11\\class11.csproj|solutionrelative:class11\\views\\home\\about.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FCEEF3-F3DB-465A-9DDA-B23BFC56799D}|class11\\class11.csproj|c:\\users\\teacher\\documents\\asp.net\\class11\\class11\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FCEEF3-F3DB-465A-9DDA-B23BFC56799D}|class11\\class11.csproj|solutionrelative:class11\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FCEEF3-F3DB-465A-9DDA-B23BFC56799D}|class11\\class11.csproj|c:\\users\\teacher\\documents\\asp.net\\class11\\class11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FCEEF3-F3DB-465A-9DDA-B23BFC56799D}|class11\\class11.csproj|solutionrelative:class11\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F4FCEEF3-F3DB-465A-9DDA-B23BFC56799D}|class11\\class11.csproj|c:\\users\\teacher\\documents\\asp.net\\class11\\class11\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F4FCEEF3-F3DB-465A-9DDA-B23BFC56799D}|class11\\class11.csproj|solutionrelative:class11\\views\\shared\\_sidebar.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class11\\class11\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "class11\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class11\\class11\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "class11\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T12:40:40.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_sidebar.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class11\\class11\\Views\\Shared\\_sidebar.cshtml",
+              "RelativeDocumentMoniker": "class11\\Views\\Shared\\_sidebar.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class11\\class11\\Views\\Shared\\_sidebar.cshtml",
+              "RelativeToolTip": "class11\\Views\\Shared\\_sidebar.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T12:39:34.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class11\\class11\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "class11\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class11\\class11\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "class11\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T12:35:46.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "About.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class11\\class11\\Views\\Home\\About.cshtml",
+              "RelativeDocumentMoniker": "class11\\Views\\Home\\About.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class11\\class11\\Views\\Home\\About.cshtml",
+              "RelativeToolTip": "class11\\Views\\Home\\About.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-11-29T12:27:57.745Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
