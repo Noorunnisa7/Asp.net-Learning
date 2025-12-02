@@ -1,0 +1,17 @@
+﻿<h1>Login Your Account</h1>
+
+@using (Html.BeginForm())
+{
+    @Html.Label("Username")
+    @Html.TextBox("username" , null , new{ @class = "form-control" , placeholder="Your Username"})
+    @Html.Label("Password")
+    @Html.TextBox("password", null, new { @class = "form-control", placeholder = "Your Password" })
+
+    <button class="btn btn-dark">Login</button>
+}
+
+
+@if(ViewBag.message != null)
+{
+    <div>Message: @ViewBag.message</div>
+}

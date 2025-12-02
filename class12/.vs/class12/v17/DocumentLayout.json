@@ -1,0 +1,122 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|c:\\users\\teacher\\documents\\asp.net\\class12\\class12\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|solutionrelative:class12\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|c:\\users\\teacher\\documents\\asp.net\\class12\\class12\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|solutionrelative:class12\\views\\home\\dashboard.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|c:\\users\\teacher\\documents\\asp.net\\class12\\class12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|solutionrelative:class12\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|c:\\users\\teacher\\documents\\asp.net\\class12\\class12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|solutionrelative:class12\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|c:\\users\\teacher\\documents\\asp.net\\class12\\class12\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|solutionrelative:class12\\models\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|c:\\users\\teacher\\documents\\asp.net\\class12\\class12\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B63790DB-A870-46B5-91F3-FB218C3C146C}|class12\\class12.csproj|solutionrelative:class12\\views\\account\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dashboard.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Views\\Home\\Dashboard.cshtml",
+              "RelativeDocumentMoniker": "class12\\Views\\Home\\Dashboard.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Views\\Home\\Dashboard.cshtml",
+              "RelativeToolTip": "class12\\Views\\Home\\Dashboard.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T12:47:11.241Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "class12\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "class12\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAwwCQAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:23:08.331Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Views\\Account\\Index.cshtml",
+              "RelativeDocumentMoniker": "class12\\Views\\Account\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Views\\Account\\Index.cshtml",
+              "RelativeToolTip": "class12\\Views\\Account\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-02T12:24:31.846Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "class12\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "class12\\Controllers\\AccountController.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAAABkAAABjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:23:31.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LoginViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Models\\LoginViewModel.cs",
+              "RelativeDocumentMoniker": "class12\\Models\\LoginViewModel.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Models\\LoginViewModel.cs",
+              "RelativeToolTip": "class12\\Models\\LoginViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:22:34.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Program.cs",
+              "RelativeDocumentMoniker": "class12\\Program.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\class12\\class12\\Program.cs",
+              "RelativeToolTip": "class12\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-02T12:18:21.648Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
