@@ -1,0 +1,19 @@
+﻿@model Class14.Models.LoginViewModel;
+
+@using (Html.BeginForm())
+{
+    @Html.LabelFor(m => m.Username)
+    @Html.TextBoxFor(m => m.Username , null , new{@class = "form-control"})
+    @Html.LabelFor(m => m.Password)
+    @Html.PasswordFor(m => m.Password, new { @class = "form-control" })
+
+    <button class="btn btn-dark">Login</button>
+
+
+}
+
+<section class="container">
+    <div class="alert alert-success">
+        @ViewBag.error
+    </div>
+</section>

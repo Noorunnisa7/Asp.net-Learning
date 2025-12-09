@@ -1,0 +1,141 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|c:\\users\\teacher\\documents\\asp.net\\class14\\class14\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|solutionrelative:class14\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|c:\\users\\teacher\\documents\\asp.net\\class14\\class14\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|solutionrelative:class14\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|c:\\users\\teacher\\documents\\asp.net\\class14\\class14\\controllers\\editorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|solutionrelative:class14\\controllers\\editorcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|c:\\users\\teacher\\documents\\asp.net\\class14\\class14\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|solutionrelative:class14\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|c:\\users\\teacher\\documents\\asp.net\\class14\\class14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|solutionrelative:class14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|c:\\users\\teacher\\documents\\asp.net\\class14\\class14\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|solutionrelative:class14\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|c:\\users\\teacher\\documents\\asp.net\\class14\\class14\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{6FF4AF7A-FEAA-4055-B991-E3EC428EB1DF}|Class14\\Class14.csproj|solutionrelative:class14\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EditorController.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Controllers\\EditorController.cs",
+              "RelativeDocumentMoniker": "Class14\\Controllers\\EditorController.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Controllers\\EditorController.cs*",
+              "RelativeToolTip": "Class14\\Controllers\\EditorController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-09T12:30:10.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Class14\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Class14\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T13:25:25.419Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "Class14\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Controllers\\UserController.cs*",
+              "RelativeToolTip": "Class14\\Controllers\\UserController.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:17:18.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Class14\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Class14\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:17:16.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Program.cs",
+              "RelativeDocumentMoniker": "Class14\\Program.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Program.cs",
+              "RelativeToolTip": "Class14\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAoAAABdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T13:11:42.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Class14\\Views\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Class14\\Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-12-06T12:43:43.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Class14\\Controllers\\AccountController.cs",
+              "ToolTip": "C:\\Users\\Teacher\\Documents\\Asp.net\\Class14\\Class14\\Controllers\\AccountController.cs*",
+              "RelativeToolTip": "Class14\\Controllers\\AccountController.cs*",
+              "ViewState": "AgIAACsAAAAAAAAAAAAAADUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-06T12:37:52.904Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
